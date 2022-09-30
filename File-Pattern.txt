@@ -1,0 +1,46 @@
+______________________________________
+LHS  [write with pencil] [Plain side]
+__Algorithm__
+
+
+
+
+
+__Diagram__
+
+__Output__
+
+```Box
+Enrollment No. ,Name ,Cse-1 Batch-B
+
+
+```
+_____________________________________
+
+RHS 
+Date       Program No.
+
+Aim- 
+
+Program
+
+
+         __Printout__
+
+
+______________________________________
+
+               __Index__
+Sno. | Name of Program  | Date  | Page No. | Signature  |
+     |                  |       |          |            |
+
+
+_____________________________________
+
+__Aim of Programs:__
+
+Aim 1: To insert an element at user-defined position array.                        22/sept
+Aim 2: To delete an element at user-defined array element from linear element.     22/sept
+Aim 3: To search an element from a linear array using linear search.               29/sept
+Aim 4: To search an element from a linear array using Binary search.               29/sept
+Aim 5: To sort a linear array using bubble Sort.                
